@@ -1,0 +1,6 @@
+{
+  "name": "LeanPath",
+  "description": "Science-based metabolic, nutrition, and weight trend tracker with adaptive TDEE, body composition analytics, and holistic wellness logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

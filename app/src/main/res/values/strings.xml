@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LeanPath</string>
+    <string name="tagline">Science-Based Metabolic &amp; Weight Architecture</string>
+    <string name="privacy_notice">Your data stays 100% on this device. No cloud tracking.</string>
+    <string name="medical_disclaimer">General educational information, not medical advice. Consult a healthcare professional before starting any diet or exercise program.</string>
+    <string name="nav_pulse">Pulse</string>
+    <string name="nav_trend">Trend</string>
+    <string name="nav_fuel">Fuel</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_science">Science</string>
+    <string name="action_log_weight">Log Weight</string>
+    <string name="action_add_food">Add Food</string>
+    <string name="action_start_fast">Start Fast</string>
+    <string name="action_end_fast">End Fast</string>
+    <string name="action_export_json">Export JSON</string>
+    <string name="action_export_csv">Export CSV</string>
+    <string name="action_reset_data">Reset All Data</string>
+    <string name="action_load_demo">Load 30-Day Science Demo</string>
+</resources>
